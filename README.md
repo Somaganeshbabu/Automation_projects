@@ -1,7 +1,5 @@
-# Automation_projects
-# (https://www.wcofun.net/ ----- basic cartoon url Search in search box for different anime using anime search or with episode search)
+# (https://www.wcofun.net/ basic cartoon url Search in search box for different anime using anime search or with episode search and paste the respective url in the above code)
 # (power rangers url)
-#---------------------------------------
 #mystic force -- https://www.wcofun.net/anime/power-rangers-mystic-force
 
 #dingo charge -- https://www.wcofun.net/anime/power-rangers-dino-charge
