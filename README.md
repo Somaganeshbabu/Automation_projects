@@ -1,4 +1,4 @@
-#Download the same webdriver which your brower supports and give the driver.exe path in ur code (or) type pip install webdriver-manager in cmd ( make sure ur web Browser #is up-to-date/Latest) and give below lines in your code 
+#Download the same webdriver which your brower supports and give the driver.exe path in ur code (or) type pip install webdriver-manager in cmd ( make sure ur web Browser #is up-to-date/Latest) and give below 3 lines in your code 
 ## selenium 3
 #1)from selenium import webdriver
 
